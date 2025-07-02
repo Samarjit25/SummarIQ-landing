@@ -18,6 +18,7 @@ const config: Config = {
         light: "var(--light)",
         card: "var(--card)",
         border: "var(--border)",
+        
       },
     },
   },

@@ -9,6 +9,7 @@ export default function Faq() {
   content: (
     <div className="text-muted-foreground">
       Currently, we support Zoom and Google Meet. Support for Microsoft Teams is planned in future updates.
+      
     </div>
   ),
 },

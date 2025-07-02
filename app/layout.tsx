@@ -17,6 +17,7 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "SummarIQ Landing ",
   description: "SaaS Landing Page ",
+  
 };
 
 export default function RootLayout({

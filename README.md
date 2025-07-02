@@ -1,1 +1,1 @@
-summariq-landing.vercel.app
+url : summariq-landing.vercel.app

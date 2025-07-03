@@ -51,7 +51,7 @@ export default function Hero() {
               <ModalContent>
                 <ModalHeader>Samarjit Roy</ModalHeader>
                 <ModalBody>
-                  I&aposm a developer and designer with a passion of creating web applications. 
+                  I&apos;m a developer and designer with a passion of creating web applications. 
                 </ModalBody>
                 <ModalFooter>
                   <Button
